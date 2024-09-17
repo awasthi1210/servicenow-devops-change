@@ -10,7 +10,7 @@ on: workflow_dispatch
 #RC2
 #RC1
 
-jobs:
+jobs: 
     build:
         # Running your workflow when a pull request merges
         # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-your-workflow-when-a-pull-request-merges-1

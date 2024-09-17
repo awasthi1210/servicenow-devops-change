@@ -8,6 +8,8 @@ on: workflow_dispatch
 #      - closed
 #RC1
 #RC2
+#RC1
+
 jobs:
     build:
         # Running your workflow when a pull request merges
